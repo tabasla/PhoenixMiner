@@ -1,4 +1,4 @@
-# PhoenixMiner with pretty Ethereum Icon
+# PhoenixMiner 5.6a with pretty Ethereum Icon
 
 /!\No/!\ Official repository of the fastest Ethereum/Ethash miner with lowest devfee.
 
